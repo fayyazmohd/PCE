@@ -1,3 +1,5 @@
+#include<iostream>
+using Name space std;
 class account
 {
 private:
